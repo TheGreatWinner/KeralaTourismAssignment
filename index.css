@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+.NavCol{
+    background-color: skyblue;
+}
+
+.SignInForm{
+
+    padding: 15px;
+    margin: 20px;
+    border: green;
+    background-color: rgb(239, 240, 185);
+    border: 2px solid green;
+}
+.logos{
+    margin-right: 23em;
+}
+.CarouselClass{
+    margin-left: 25px;
+    padding: 15px;
+    margin: 20px;
+    border: green;
+    background-color: rgb(239, 240, 185);
+    border: 2px solid green;
+}
+footer{
+    height: 3em;
+    background-color: skyblue;
+    color: white;
+    margin-top: 5px;
+    
+}
+footer h3{
+    text-align: center;
+    padding-top: 2px;
+}
+
+.Labels{
+    color: blue;
+}
+
+.SignUpform{
+    border: 3px solid white;
+    margin: 20px;
+    margin-left: 40px;
+    padding: 10px;
+    color: rgb(231, 231, 178);
+}
+.footerSignUp{
+    height: 3em;
+    background-color: rgb(170, 6, 6);
+    color: white;
+    margin-top: 15px;
+
+}
+.DistrictGrid{
+    
+}
+.DistrictGridSub{
+    margin-top: 6px;
+
+    border: 2px solid white;
+}
+.DistrictGridRow{
+    padding-bottom: -5px;
+    /* background-size: contain; */
+    background-size: cover;
+    margin: 4px;
+    text-align: center;
+    
+    border: 1px solid rgb(151, 194, 32);
+
+    padding-top: 80px;
+    margin-bottom: 1px;
+
+    
+    /* margin: 2px solid rgb(243, 247, 243); */
+    /* margin-left: 2px; */
+}
+.DistrictGridRow a{
+    text-align: center;
+    /* border: 2px solid blue; */
+    color: white;
+}
+.DistrictGridRow a:hover{
+    background-color: teal;
+    color: white;
+    
+}
+.carousalDetails h3{
+    text-align: center;
+    color: darkgreen;
+}
+.carousalDetails p{
+
+    text-align: justify;
+    color: darkred;
+    text
+}
